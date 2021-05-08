@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anaprataa
+- 👋 Hi, I’m @anaprataa. 
 - 👀 I’m interested in engineering, sustainability, inovation, games and music. 
-- 🌱 I’m currently learning about Python and Data Science in general.
+- 🌱 I’m currently learning about Python and Data Science.
 - 💞️ I’m looking to collaborate on anything that can contribute for a better future.
 - 📫 How to reach me analuaprata@gmail.com
 
